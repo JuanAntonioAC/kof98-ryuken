@@ -1,0 +1,28 @@
+{
+  "gameName": "THE KING OF FIGHTERS '98 ULTIMATE MATCH FINAL EDITION",
+  "appId": 222420,
+  "buildId": "8170224",
+  "installDir": "D:\\SteamLibrary\\steamapps\\common\\The King of Fighters'98 Ultimate Match",
+  "executables": {
+    "x64": {
+      "file": "KingOfFighters98UM_x64.exe",
+      "size": 6078464,
+      "sha256": "575BC3343824A7DBFD9D10C87D4FB58906926C8D512E329D8A3E2BD0447D4F6A",
+      "peTimestamp": "2022-02-08T21:09:07-06:00",
+      "lastWrite": "2026-10-11T13:41:43"
+    },
+    "x86": {
+      "file": "KingOfFighters98UM.exe",
+      "size": 4886528,
+      "sha256": "2B7F65521FDE299DCC84E4C667CE542FA1F7726588DDF6088B5A3173D15FE3B8"
+    }
+  },
+  "references": {
+    "svcChaos": "D:\\SteamLibrary\\steamapps\\common\\SNK VS CAPCOM SVC CHAOS",
+    "ssf2t": "C:\\Users\\enano\\OneDrive\\Documentos\\Fightcade\\emulator\\fbneo\\ROMs\\ssf2t.zip",
+    "ssf2xj": "C:\\Users\\enano\\Downloads\\ssf2xj.zip",
+    "sfiii3": "C:\\Users\\enano\\OneDrive\\Documentos\\Fightcade\\emulator\\fbneo\\ROMs\\sfiii3.zip",
+    "sfiii3Collection": "C:\\Users\\enano\\AppData\\Roaming\\CrowdedStreet\\3SX\\resources\\sfiii3nr1.zip"
+  },
+  "notes": "Rutas verificadas en esta maquina el 2026-11-09. No copiar ROMs ni ejecutables a este repositorio."
+}

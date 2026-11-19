@@ -1,0 +1,8 @@
+bin/
+obj/
+.vs/
+work/
+*.user
+*.log
+extracted/
+backup/
